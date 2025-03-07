@@ -22,7 +22,7 @@ public class ErrorValidationsTest extends BaseTest {
 
 	@Test
 	public void secondErrorValidation() {
-	//Git test
+	//testing CICD integration
 		System.out.println("I am second error validation method");
 	}
 }
